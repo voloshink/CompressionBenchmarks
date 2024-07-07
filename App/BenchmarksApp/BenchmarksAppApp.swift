@@ -123,6 +123,10 @@ struct BenchmarksAppApp: App {
 
         debugPrint("Finished in \(CFAbsoluteTimeGetCurrent() - benchmarkStart) seconds")
 
+        // To use this output, select everything in the console output and copy
+        // Past into google sheets
+        // Go to Format -> Clear Formatting
+        // Go to Data -> Split text to columns -> use comma as separator
         print(formatResults(results: results))
     }
 }
