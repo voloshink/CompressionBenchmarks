@@ -1,0 +1,51 @@
+{
+  "originHash" : "5134feef1fc6f8d3eb2ba19d2afce2a3b60333f61773178f69d3123d263d5265",
+  "pins" : [
+    {
+      "identity" : "devicekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/devicekit/DeviceKit.git",
+      "state" : {
+        "revision" : "5757447e9f92c476ee2ca41ead7eb6db07936430",
+        "version" : "5.4.0"
+      }
+    },
+    {
+      "identity" : "gzipswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/1024jp/GzipSwift",
+      "state" : {
+        "revision" : "99cf703b461916279cbbb50068e904df86c37133",
+        "version" : "6.0.0"
+      }
+    },
+    {
+      "identity" : "snappy.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/awxkee/snappy.swift",
+      "state" : {
+        "revision" : "4ce38540e8131f75682a9dd8b36e65ec3979f645",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swiftbrotli",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/f-meloni/SwiftBrotli",
+      "state" : {
+        "revision" : "101cedff527d7177c0f93a40b664f1f1475839f0",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "zstd.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/awxkee/zstd.swift",
+      "state" : {
+        "revision" : "895dac6adf40f4adf6cd889dbff31958e6fa1203",
+        "version" : "1.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
