@@ -140,6 +140,6 @@ struct Result {
 
 extension Int {
     var byteSize: String {
-        return ByteCountFormatter().string(fromByteCount: Int64(self))
+        return ByteCountFormatter().string(fromByteCount: Int64(self)).replacingOccurrences(of: ",", with: ".")
     }
 }
