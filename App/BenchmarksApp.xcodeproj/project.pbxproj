@@ -68,7 +68,6 @@
 		04806FF82C387EE300B9AA85 /* BenchmarksApp */ = {
 			isa = PBXGroup;
 			children = (
-				04AB6B012C3986550014281F /* pages */,
 				04806FF92C387EE300B9AA85 /* BenchmarksAppApp.swift */,
 				04806FFB2C387EE300B9AA85 /* ContentView.swift */,
 				04806FFD2C387EE400B9AA85 /* Assets.xcassets */,
@@ -90,13 +89,6 @@
 			children = (
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		04AB6B012C3986550014281F /* pages */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = pages;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
